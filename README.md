@@ -1,2 +1,2 @@
 # machinelearning_homework
-This repository house the homework lessons from the machine learning zoomcamp from DataTalks.co
+This repository houses the the machine learning homework from DataTalks.co and are named according to the lessons.
